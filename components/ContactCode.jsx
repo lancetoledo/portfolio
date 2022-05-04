@@ -9,7 +9,7 @@ const ContactCode = () => {
       <p className={styles.line}>
         &nbsp;&nbsp;&nbsp;website:{' '}
         <a href="https://nitinranganath.me" target="_blank" rel="noopener">
-          nitinranganath.me
+        lancetoledo.github.io/
         </a>
         ;
       </p>
@@ -20,7 +20,7 @@ const ContactCode = () => {
           target="_blank"
           rel="noopener"
         >
-          nitinranganath@gmail.com
+          lance@cleverprogrammer.com
         </a>
         ;
       </p>

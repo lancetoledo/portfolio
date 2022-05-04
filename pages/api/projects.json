@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "name": "React Counter",
+    "name": "Autoholics",
     "image": "https://imgur.com/A8NYxAA.png",
-    "description": "A Counter app that allows to change counr using React",
+    "description": "A website for a car wrapping company",
     "tags": ["react", "html", "css"],
     "source_code": "",
     "demo": "https://friendly-austin-253745.netlify.app/"
@@ -24,6 +24,15 @@
     "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
     "source_code": "https://github.com/itsnitinr/healthyways",
     "demo": "https://healthyways.herokuapp.com/"
+  },
+  {
+    "id": 4,
+    "name": "VSCode Portfolio",
+    "image": "https://imgur.com/mKkz0iz.png",
+    "description": "A themeable and developer-centric portfolio based on the VSCode",
+    "tags": ["next", "css-modules"],
+    "source_code": "https://github.com/itsnitinr/vscode-portfolio",
+    "demo": "http://vscode-portfolio.vercel.app/"
   },
   {
     "id": 4,

@@ -2,6 +2,9 @@ import { useState } from 'react';
 import ContactCode from '../components/ContactCode';
 import styles from '../styles/ContactPage.module.css';
 
+
+
+
 const ContactPage = () => {
   const [name, setName] = useState('');
   const [email, setEmail] = useState('');

@@ -17,7 +17,6 @@ const ProjectsPage = ({ projects }) => {
 
 export async function getStaticProps() {
   const projects = getProjects();
-
   return {
     props: { title: 'Projects', projects },
   };

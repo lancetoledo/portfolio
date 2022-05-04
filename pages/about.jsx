@@ -2,6 +2,7 @@ const AboutPage = () => {
   return (
     <>
       <h1>About Page</h1>
+      <p>I am an aspiring React developer who loves to create different projects</p>
     </>
   );
 };
